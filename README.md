@@ -1,7 +1,6 @@
-## 👋 ¡Hola! Soy BraianCM603
+## 👋 ¡Hello! I'm BraianCM603
 
-Soy un **Ingeniero de Sistemas Informáticos** con amplia experiencia en el desarrollo de software, especializado en **desarrollo web y móvil**. Me apasiona crear soluciones innovadoras y escalables utilizando tecnologías modernas.
-
+I'm a **Computer Systems Engineer** with extensive experience in software development, specializing in web and mobile development. I'm passionate about creating innovative and scalable solutions using modern technologies.
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding GIF">
@@ -66,8 +65,8 @@ Soy un **Ingeniero de Sistemas Informáticos** con amplia experiencia en el desa
 </p>
 
 <br><br><br><br><br><br><br><br>
-## 📫 ¿Cómo contactarme?
-Si quieres colaborar o simplemente hablar sobre tecnología, puedes encontrarme en:
+## 📫 How to contact me?
+If you want to collaborate or just talk about technology, you can find me at:
 - **GitHub:** [BraianCM603](https://github.com/BraianCM603)
 
-¡Gracias por visitar mi perfil! 😊
+Thanks for visiting my profile! 😊
